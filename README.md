@@ -2,7 +2,7 @@
 This script is used to quickly switch focus between multiple screens. Instead of switching the focus by dragging the mouse, we only need to press the shortcut key we set, which should be very convenient for users who only use the touchpad.
 
 
-It is recommended to use it with another software, which will make your touchpad very powerful and get rid of the dependence on the mouse: https://github.com/JoseExposito/touchegg
+It is recommended to use it with touchegg, which will make your touchpad very powerful and get rid of the dependence on the mouse: https://github.com/JoseExposito/touchegg
 ## Install
 - install xdotool
 ```
